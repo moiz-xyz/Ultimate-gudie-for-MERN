@@ -10,8 +10,7 @@ The **MERN Stack** is a powerful JavaScript-based technology stack used for deve
 
 With MERN, you can build scalable and modern web applications entirely using JavaScript. 🌍✨
 
-📄 **Full PDF Guide**: [MERN Stack PDF](#)
-👨‍💻 **Author**: Abdul Moizz  
+📄 **Full PDF Guide**: [MERN Stack PDF](https://drive.google.com/drive/folders/12ddvDYlGGtjdlpV6XiTWGIULCLE9TRvj)
 🔗 **LinkedIn**: [Abdul Moizz's Profile](https://www.linkedin.com/in/abdul-moiz-khan-1662612a6/)
 
 ---
